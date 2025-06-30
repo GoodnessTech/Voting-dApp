@@ -4,7 +4,7 @@ A simple decentralized application that allows users to create proposals and vot
 
 ## Live Demo
 
-https://your-vercel-link.vercel.app
+https://voting-dapp-livid.vercel.app/
 
 ## Features
 
